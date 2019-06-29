@@ -8,7 +8,7 @@ export default class extends React.Component {
   render() {
     return (
       <Header style={{ backgroundColor: "#2e3e50"}} >
-        <a className="appheader-title"> Emmanuel </a>
+        <a className="appheader-title"> Emmanuel v2</a>
       </Header>
     );
   }
